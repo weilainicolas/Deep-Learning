@@ -1,0 +1,2 @@
+git remote add origin https://github.com/weilainicolas/Deep-Learning.git
+git push -u origin master
